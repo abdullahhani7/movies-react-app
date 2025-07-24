@@ -4,7 +4,7 @@ A responsive movie browsing app built with **React**, styled using **Material UI
 
 ## 📸 Live Demo
 
-👉 [https://panto-furniture.vercel.app](https://movies-react-app-chi.vercel.app/)
+👉 [https://movies-react-app-chi.vercel.app](https://movies-react-app-chi.vercel.app/)
 
 ## 🚀 Features
 
