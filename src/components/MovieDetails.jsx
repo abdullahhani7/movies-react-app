@@ -46,6 +46,7 @@ const MovieDetails = () => {
           gap: "2rem",
           alignItems: "center",
           minHeight: "100vh",
+          flexDirection: { xs: "column", md: "row" },
         }}
       >
         <CardMedia
