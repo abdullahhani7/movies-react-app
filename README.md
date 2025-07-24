@@ -2,6 +2,10 @@
 
 A responsive movie browsing app built with **React**, styled using **Material UI**, and powered by an external movie **API** (like TMDB).
 
+## 📸 Live Demo
+
+👉 [Click here to view the live site](https://movies-react-app-chi.vercel.app/)
+
 ## 🚀 Features
 
 - 🧭 Client-side Routing with React Router
@@ -19,9 +23,6 @@ A responsive movie browsing app built with **React**, styled using **Material UI
 - **React Router**
 - **Axios / Fetch API**
 
-## 📸 Live Demo
-
-👉 [Click here to view the live site](https://movies-react-app-chi.vercel.app/)
 
 ## 📁 Installation
 
